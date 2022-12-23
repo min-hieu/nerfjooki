@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nerfjooki/static/css/main.fe13c8b8.css",
-    "main.js": "/nerfjooki/static/js/main.8dacb313.js",
+    "main.js": "/nerfjooki/static/js/main.4c63fb58.js",
     "static/js/787.92c67eb2.chunk.js": "/nerfjooki/static/js/787.92c67eb2.chunk.js",
     "index.html": "/nerfjooki/index.html",
     "main.fe13c8b8.css.map": "/nerfjooki/static/css/main.fe13c8b8.css.map",
-    "main.8dacb313.js.map": "/nerfjooki/static/js/main.8dacb313.js.map",
+    "main.4c63fb58.js.map": "/nerfjooki/static/js/main.4c63fb58.js.map",
     "787.92c67eb2.chunk.js.map": "/nerfjooki/static/js/787.92c67eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe13c8b8.css",
-    "static/js/main.8dacb313.js"
+    "static/js/main.4c63fb58.js"
   ]
 }
